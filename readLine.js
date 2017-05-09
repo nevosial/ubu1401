@@ -1,7 +1,7 @@
 var readline = require('readline');
 var rl = readline.createInterface(process.stdin , process.stdout);
 
-//create object to store person.
+//create object to store persons name and sayings.
 
 var man = {
 name:'',
