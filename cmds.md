@@ -19,4 +19,4 @@
 |/sbin|contains info about the system binaries.|
 |/tmp| contains temporary files, cleaned on a reboot. |
 |/usr|Another place for applications.|
-|/var|contains variable files like logs etc (ex.../var/sm.log)|
+|/var|contains variable files like logs etc (exmple.../var/sm.log)|
